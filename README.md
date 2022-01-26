@@ -1,6 +1,9 @@
-#My Readme  File
+#University Managment System
 
-##Read it to understand the project
+#About the application
+This application allows the management of a university. Basically, it makes it possible to manage faculties, departments, classes, and finally to link departments to classes. After all that to enroll a student in the said university.
 
-So basically the project is about inscription of student in a school Managment system 
+##Technologies used
+Java Swing
+
 
